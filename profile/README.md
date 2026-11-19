@@ -11,19 +11,3 @@ Aplicativo de gestão pessoal e empresarial que funciona como um secretário int
 ## Slogan
 
 *Deixe a gestão com o Silas.*
-
-## Código
-
-O monorepo da plataforma fica em [`site/`](./site/README.md) (Next.js, NestJS, pnpm + Turbo). Para rodar em desenvolvimento:
-
-```bash
-cd site
-pnpm install
-pnpm dev
-```
-
-Detalhes de ambiente, banco e deploy: [site/README.md](./site/README.md).
-
-## Documentação
-
-- [Visão da plataforma e módulos](./docs/idealização-pelo-chatgpt.md)
